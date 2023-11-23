@@ -2,6 +2,7 @@
     "dayWeather": {
         "id": "1",
         "date": "2023-11-13",
+        "weatherImage" : "Snow.png",
         "times": [
             {
                 "time": "morning",
